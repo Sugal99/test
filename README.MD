@@ -1,6 +1,6 @@
-### Test Files:
+## Test Files:
 
-# login.cy.js
+### login.cy.js
 
 The tests written in this file cover the following scenarios:
 
