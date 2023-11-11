@@ -15,8 +15,9 @@ The tests written in this file include:
 
 * A user successfully logs in as an existing user and then logs out.
 
-Unit Testing with Jest
-Test Files:
+### Unit Testing with Jest
+
+## Test Files:
 login.test.js
 The tests in this file verify that:
 
