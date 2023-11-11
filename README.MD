@@ -17,12 +17,14 @@ The tests written in this file include:
 
 ## Unit Testing with Jest
 
-##3 Test Files:
-login.test.js
+## Test Files:
+### login.test.js
+
 The tests in this file verify that:
 
-The login function fetches and stores a token in browser storage.
-logout.test.js
+* The login function fetches and stores a token in browser storage.
+
+### logout.test.js
 The tests in this file ensure that:
 
-The logout function clears the token from browser storage.
+* The logout function clears the token from browser storage.
