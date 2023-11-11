@@ -16,6 +16,7 @@ The tests written in this file include:
 * A user successfully logs in as an existing user and then logs out.
 
 ## Unit Testing with Jest
+Unit tests are tests that verify the integrity of authentication processes, encompassing login, registration, and logout functionalities, across diverse scenarios to ensure their correctness.
 
 ## Test Files:
 ### login.test.js
