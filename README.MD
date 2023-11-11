@@ -1,6 +1,7 @@
 ### Test Files:
 
 login.cy.js
+
 The tests written in this file cover the following scenarios:
 
 * A user can log in and access their profile.
