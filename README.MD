@@ -10,10 +10,11 @@ The tests written in this file cover the following scenarios:
 * The user gets denied with an empty password field.
 * The user gets denied with an empty email field.
 
-logout.cy.js
+### logout.cy.js
 The tests written in this file include:
 
-A user successfully logs in as an existing user and then logs out.
+* A user successfully logs in as an existing user and then logs out.
+
 Unit Testing with Jest
 Test Files:
 login.test.js
